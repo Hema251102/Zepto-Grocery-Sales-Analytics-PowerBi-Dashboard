@@ -1,8 +1,8 @@
-**📊 Zepto Grocery Sales Analysis Dashboard
-🛒 Project Overview
+**📊 Zepto Grocery Sales Analysis Dashboard**
+**🛒 Project Overview**
 This project analyzes Zepto's grocery sales trends and customer preferences using Power BI. The interactive dashboard provides insights into total sales, customer ratings, item performance, and tier-wise revenue distribution, enabling data-driven decision-making for business improvements.
 
-🔍 Key Insights
+**🔍 Key Insights**
 Total Sales: $1.20M
 
 Average Sales per Item: $141
@@ -15,7 +15,7 @@ Category Performance: Fruits & Snacks lead the sales
 
 Fat Content Analysis: Comparison of low-fat vs. regular item sales
 
-📌 Steps Followed
+**📌 Steps Followed**
 1️⃣ Data Cleaning & Transformation
 Used Pandas for handling missing values, renaming columns, and structuring raw data.
 
@@ -33,14 +33,14 @@ Created calculated columns to derive additional insights.
 
 Developed dynamic filters to enable drill-down analysis.
 
-🚀 Tools & Technologies
+**🚀 Tools & Technologies**
 Python (Pandas, NumPy) – Data cleaning & manipulation
 
 Power BI – Data visualization & dashboard creation
 
 Excel – Initial data exploration
 
-🎯 Business Impact
+**🎯 Business Impact**
 Helps Zepto optimize inventory management based on category-wise sales trends.
 
 Identifies high-performing locations to focus marketing strategies.
